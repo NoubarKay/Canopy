@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/sample/" />
+  <Folder Name="/src/">
+    <Project Path="src/Canopy.Core/Canopy.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Canopy.Core.Tests/Canopy.Core.Tests.csproj" />
+  </Folder>
+</Solution>
